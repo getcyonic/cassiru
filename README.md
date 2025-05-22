@@ -21,7 +21,6 @@ It is designed to be extensible, robust, and easy to use, with a focus on mainta
 ```
 cassiru.bat
 modules/
-    subprocess.cmd
     wifi_watch.cmd
 scripts/
     usage.bat
